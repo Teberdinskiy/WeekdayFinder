@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Месяц"; ObjectID = "EBc-nz-Pon"; */
+"EBc-nz-Pon.text" = "Месяц";
+
+/* Class = "UILabel"; text = "День недели "; ObjectID = "MYj-Vc-aRW"; */
+"MYj-Vc-aRW.text" = "День недели ";
+
+/* Class = "UILabel"; text = "Год"; ObjectID = "feF-hf-yoN"; */
+"feF-hf-yoN.text" = "Год";
+
+/* Class = "UILabel"; text = "Дата"; ObjectID = "hee-Tp-482"; */
+"hee-Tp-482.text" = "Дата";
+
+/* Class = "UILabel"; text = "Поиск дня недели"; ObjectID = "j9U-er-24h"; */
+"j9U-er-24h.text" = "Поиск дня недели";
+
+/* Class = "UIButton"; normalTitle = "Найти день"; ObjectID = "vBN-JN-mRE"; */
+"vBN-JN-mRE.normalTitle" = "Найти день";
